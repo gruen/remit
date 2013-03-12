@@ -1,4 +1,4 @@
-Remit!AOEAOE
+Remit!
 =====
 
 This API provides access to the Amazon Flexible Payment Service (FPS). After
